@@ -1,0 +1,8 @@
+add(2,3)
+console.log ("adds two numbers")
+
+Subtract(3,4)
+console.log ("Subtracts two numbers")
+
+Divide (2,4)
+console.log ("Divide")
